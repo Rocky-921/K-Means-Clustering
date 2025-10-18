@@ -1,6 +1,7 @@
 # K-Means-Clustering
 
 Problem Statement:-
+
 The dataset consists of N observations.
 Each observation is a d-dimensional vector.
 Given a set of observations x1,x2,...,xN, the dataset must be partitioned into k disjoint clusters {S_1,S_2, , S_k}.
