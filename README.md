@@ -11,5 +11,7 @@ The choice of clusters must minimise the sum of the squares of Euclidean distanc
 Develop a parallel solution on an Nvidia GPU using CUDA and compare with that of cuML.
 
 Created various implementations as given under the All_implementations folder.
+
 Created checker.py Python script to check the performance of the implementations with that of NVIDIA's built-in.
+
 Created benchmark.py to plot the performance of the implementations with each other using the plots given in the corresponding folder.
