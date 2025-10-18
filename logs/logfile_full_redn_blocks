@@ -1,0 +1,84 @@
+File: 0
+My Score: 300.25
+Inbuilt Score: 164.45454545454547
+Difference: 135.79545454545453
+My Time: Total: 119.822ms, Calculation Time: 4.62084ms
+Nvidia Time: Total: 133.9750 ms
+
+--------------------------------------------------
+File: 1
+My Score: 70.93091792409368
+Inbuilt Score: 74.85171566458769
+Difference: -3.9207977404940095
+My Time: Total: 112.085ms, Calculation Time: 2.61679ms
+Nvidia Time: Total: 139.8067 ms
+
+--------------------------------------------------
+File: 2
+My Score: 20801.03742622052
+Inbuilt Score: 20782.831160739526
+Difference: 18.206265480992442
+My Time: Total: 346.355ms, Calculation Time: 235.695ms
+Nvidia Time: Total: 379.5793 ms
+
+--------------------------------------------------
+File: 3
+My Score: 6.734600070783932
+Inbuilt Score: 8.734946557790613
+Difference: -2.0003464870066807
+My Time: Total: 101.178ms, Calculation Time: 2.16035ms
+Nvidia Time: Total: 142.2913 ms
+
+--------------------------------------------------
+File: 4
+My Score: 20771.997200634076
+Inbuilt Score: 20811.2545660011
+Difference: -39.25736536702243
+My Time: Total: 284.511ms, Calculation Time: 171.379ms
+Nvidia Time: Total: 365.2070 ms
+
+--------------------------------------------------
+File: 5
+My Score: 229.02950459401936
+Inbuilt Score: 228.0885341364066
+Difference: 0.9409704576127638
+My Time: Total: 105.689ms, Calculation Time: 5.16763ms
+Nvidia Time: Total: 146.9474 ms
+
+--------------------------------------------------
+File: 6
+My Score: 240.02980119200672
+Inbuilt Score: 231.07413390935326
+Difference: 8.955667282653451
+My Time: Total: 120.594ms, Calculation Time: 8.54356ms
+Nvidia Time: Total: 153.6565 ms
+
+--------------------------------------------------
+File: 7
+My Score: 13425.64624319739
+Inbuilt Score: 13455.042300961875
+Difference: -29.396057764484794
+My Time: Total: 736.994ms, Calculation Time: 625.807ms
+Nvidia Time: Total: 231.9446 ms
+
+--------------------------------------------------
+File: 8
+My Score: 13364.342210832494
+Inbuilt Score: 13342.79921169437
+Difference: 21.542999138124287
+My Time: Total: 416.697ms, Calculation Time: 297.291ms
+Nvidia Time: Total: 258.1513 ms
+
+--------------------------------------------------
+File: 9
+My Score: 1.2457620443543822
+Inbuilt Score: 1.2690147352734533
+Difference: -0.023252690919071117
+My Time: Total: 143.798ms, Calculation Time: 2.71064ms
+Nvidia Time: Total: 152.4801 ms
+
+--------------------------------------------------
+All files processed.
+--------------------------------------------------
+CUDA program executed successfully.
+--------------------------------------------------
